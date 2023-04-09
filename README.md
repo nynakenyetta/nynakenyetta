@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi, welcome to Kameron's Portfolio! 👋
 
 <!--
 **nynakenyetta/nynakenyetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Aspiring surgeon, robotics engineer and STEM Enthusiast
+I am a biomedical engineering student at Queen Mary working on building my coding skills through various projects. With the MedTech industry developing so quickly, I do not want to be left behind. Because of this, I am learning about Python, C#, Unity, machine learning, deep learning, and Arduino.
 
 Here are some ideas to get you started:
 
