@@ -12,7 +12,7 @@ Skills: Python / C# / HTML / CSS
 
 #### Current project (click to explore)
 
-<img src="pressure-matrix-thumbnail.png" width="250">(https://github.com/nynakenyetta/undegrad_thesis_project)
+[<img src="pressure-matrix-thumbnail.png" width="250">](https://github.com/nynakenyetta/undegrad_thesis_project)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nynakenyetta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kameron-young-4a0609189/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kamerons_lab/)  
 
