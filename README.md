@@ -2,12 +2,12 @@
 #### Currently open to internship opportunities
 ![Currently open to internship opportunities](https://github.com/nynakenyetta/nynakenyetta/blob/bd7c75e5c3146444987fe8af5e91a37f8af654b8/kameron-young-github.gif)
 
-I am a biomedical engineering student at Queen Mary working on building my coding skills through various projects. With the MedTech industry developing so quickly, I do not want to be left behind. Because of this, I am learning about Python, C#, Unity, machine learning, deep learning, and Arduino.
+I am currently pursuing my MSc in Artificial Intelligence and Machine Learning at the University of Birmingham Dubai. As a biomedical engineering graduate, with honours from Queen Mary University, I am passionate about healthcare related projects. With the MedTech industry developing so quickly, I do not want to be left behind. Because of this, I am learning about Python, C#, Unity, machine learning, deep learning, and microcontrollers.
 
-Skills: Python / C# / HTML / CSS
+Skills: Python / MATLAB / Arduino / C# / HTML / CSS
 
-- 🔭 I’m currently working on developing a pressure matrix sensor for a myoelectric prosthetic hand 
-- 🌱 I’m currently learning how to process EMG signals 
+- 🔭 My most recent project, for my undergraduate thesis, was to develop a pressure matrix sensor for a myoelectric prosthetic hand 
+- 🌱 I’m currently learning how to process EMG signals using machine learning techniques
 - 📫 How to reach me: info@kameronslab.com
 
 #### Current project (click to explore)
